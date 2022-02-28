@@ -1,0 +1,31 @@
+{
+  "name": "deta-extension-pack",
+  "displayName": "Deta Extensions Pack",
+  "description": "Just deta recommended extensions for visual studio code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.64.0"
+  },
+  "icon": "images/icon.png",
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "ecmel.vscode-html-css",
+    "abusaidm.html-snippets",
+    "Zignd.html-css-class-completion",
+    "ritwickdey.LiveServer",
+    "esbenp.prettier-vscode",
+    "xabikos.JavaScriptSnippets",
+    "bmewburn.vscode-intelephense-client",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "streetsidesoftware.code-spell-checker",
+    "christian-kohler.path-intellisense",
+    "vscode-icons-team.vscode-icons",
+    "naumovs.color-highlight",
+    "aaron-bond.better-comments",
+    "zhuangtongfa.Material-theme"
+  ]
+}
